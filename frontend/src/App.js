@@ -20,7 +20,7 @@ import ProductEditScreen from './screens/ProductEditScreen'
 import OrderListScreen from './screens/OrderListScreen'
 import CategoryListScreen from './screens/CategoryListScreen'
 import CategoryEditScreen from './screens/CategoryEditScreen'
-//App  file 
+
 const App = () => {
   return (
     <Router>
